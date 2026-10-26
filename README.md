@@ -23,7 +23,4 @@ Python Tkinter + MySQL desktop application.
 ## Formula
 `net_salary = basic_salary + allowance - deduction`
 
-## Report
-Full report available in `/report` folder.
-
 Author: Hemalatha Balakumar
